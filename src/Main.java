@@ -43,7 +43,7 @@ public class Main {    public static void main(String[] args) {
         System.out.println("За 20 минут машина произвела "+ cycle1 +" штук бутылок");
         System.out.println("За сутки машина произвела "+ cycle2 + " штук бутылок");
         System.out.println("За 3 дня машина произвела " + cycle3 + " штук бутылок");
-        System.out.println("За месяц машина произвела" + cycle + " штук бутылок");
+        System.out.println("За месяц машина произвела " + cycle + " штук бутылок");
 
         int colors = 120;
         int whiteInClass = 2;
