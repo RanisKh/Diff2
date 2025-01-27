@@ -80,8 +80,8 @@ public class Main {
         int difference1 = zpMasha*12-masha*12;
         int difference2 = zpDenis*12-denis*12;
         int difference3 = zpKris*12-kristina*12;
-        System.out.println("Маша теперь получает "+ zpMasha+" рублей. Годовой доход вырос на: "+ difference1 +" рублей.");
-        System.out.println("Денис теперь получает "+ zpDenis+" рублей. Годовой доход вырос на: "+ difference2 +" рублей.");
-        System.out.println("Кристина теперь получает "+zpKris+ " рублей. Годовой доход вырос на: "+ difference3 +" рублей.");
+        System.out.println("Маша теперь получает "+ zpMasha +" рублей. Годовой доход вырос на: "+ difference1 +" рублей.");
+        System.out.println("Денис теперь получает "+ zpDenis +" рублей. Годовой доход вырос на: "+ difference2 +" рублей.");
+        System.out.println("Кристина теперь получает "+zpKris + " рублей. Годовой доход вырос на: "+ difference3 +" рублей.");
     }
 }
